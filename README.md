@@ -45,7 +45,7 @@ npm run dev
 
 ## Screenshot
 
-![Screenshot of NIYAMR AI UI](docs/screenshot.png)
+![Screenshot of NIYAMR AI UI](./demo.png)
 
 Additional captured UI:
 
